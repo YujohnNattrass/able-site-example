@@ -6,6 +6,10 @@ nav {
   background-color: #1f3264;
 }
 
+.button-text {
+  font-weight: 500;
+}
+
 .able-blue {
   color: #1f3264;
 }
